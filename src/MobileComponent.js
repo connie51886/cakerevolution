@@ -7,7 +7,7 @@ const MobileComponent = () => {
     return (
           <div class="background">
 
-              <h2>🍰 Pls come back on desktop 🍰</h2>
+              <h2>🍰 is waiting on desktop! </h2>
 
           </div>
 
