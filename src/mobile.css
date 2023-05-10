@@ -1,6 +1,5 @@
 body, html {
-    height: 100%;
-    margin: 0;
+    background-image: url("./images/mobilecake.png);
   }
 
   .background {
@@ -17,7 +16,7 @@ body, html {
   }
 
 h2{
-    font-size: 24px;
+    font-size: 32px;
     font-weight: bold;
     display: flex;
     align-items: center;
