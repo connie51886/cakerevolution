@@ -1,5 +1,16 @@
+/* mobile version */ 
+h2{
+  font-size: 24;
+  text-align: center;
+}
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+ /* web version */ 
 .border-button {
   display: block;
   display: flex;
@@ -127,6 +138,8 @@
 h1{
   font-size: 60px;
   color: #FC3DD2;
+
+
   margin-bottom: 32px;
 }
 
