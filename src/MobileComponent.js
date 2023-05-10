@@ -4,10 +4,9 @@ import React from 'react';
 const MobileComponent = () => {
     const componentStyle = {
         backgroundImage: 'url(./images/mobilecake.png)',
-        /* backgroundSize: 'cover', */ 
-        backgroundSize: '100% 100%',
+        backgroundSize: 'cover', 
         backgroundPosition: 'center',
-        minHeight: '100vh',
+        
 
       };
     
