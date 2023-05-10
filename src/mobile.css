@@ -1,8 +1,7 @@
-body{
-background-color: #FEFFC9; 
-}
+
   
   .background {
+    background-color: #FEFFC9; 
     height: calc(100vh - 20px);
   
     /* Center and scale the image nicely */
