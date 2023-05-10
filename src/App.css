@@ -1,15 +1,3 @@
-/* mobile version */ 
-h2{
-  font-size: 24;
-  text-align: center;
-}
-
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
  /* web version */ 
 .border-button {
   display: block;
