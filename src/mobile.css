@@ -2,7 +2,7 @@
   
   .background {
     
-    background-color: FAFFC5; 
+    background-color: FC3DD2; 
     height: calc(100vh - 20px);
   
     /* Center and scale the image nicely */
@@ -35,7 +35,7 @@ h2{
     justify-content: center;
     height: 100%;
     width: 100%;
-    margin: 24px;
+    top-margin: 24px;
     
 
 }
