@@ -6,6 +6,9 @@ const MobileComponent = () => {
         backgroundImage: 'url(./images/mobilecake.png)',
         backgroundSize: 'cover', 
         backgroundPosition: 'center',
+
+
+        height: '100%'
       };
     
     
@@ -15,18 +18,24 @@ const MobileComponent = () => {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    height: '100vh',
+    height: '100%',
     width: '100%',
     margin: '0'
     
   };
 
     return (
-    <div className="mobile-component" style={componentStyle}>
+      <div style={{height:'100%'}}>
+        <div style = {{height:'100%'}}>
+      
+          <div className="mobile-component" style={componentStyle}>
 
-            <h2 style = {headingStyle}>Pls come back on desktop!</h2>
+              <h2 style = {headingStyle}>Pls come back on desktop!</h2>
 
-    </div>
+          </div>
+
+      </div>
+      </div>
     );
   };
   
