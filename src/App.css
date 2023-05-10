@@ -18,7 +18,7 @@ body{
   padding: 0.40em .6em;
 
   /* style details */
-  
+  font-family: 'Xanh Mono', monospace;
   font-size: 54px;
   line-height: 64px;
   text-transform: uppercase;
@@ -130,7 +130,8 @@ body{
 }
 
 h1{
-  font-size: 60px;
+  font-family: 'Bangers', cursive;
+  font-size: 48px;
   color: #FC3DD2;
 
 
