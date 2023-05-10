@@ -7,7 +7,7 @@ const MobileComponent = () => {
     return (
           <div class="background">
 
-              <h2>🍰 is waiting on desktop! </h2>
+              <h2>🍰 is served on desktop only! </h2>
 
           </div>
 
