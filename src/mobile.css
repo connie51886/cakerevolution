@@ -28,6 +28,8 @@ background-color: #FDFF8F;
   }
 
 h2{
+    font-family: 'Xanh Mono', monospace;
+  
     font-size: 20px;
     font-weight: bold;
     display: flex;
