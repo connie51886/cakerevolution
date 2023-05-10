@@ -6,8 +6,6 @@ const MobileComponent = () => {
         backgroundImage: 'url(./images/mobilecake.png)',
         backgroundSize: 'cover', 
         backgroundPosition: 'center',
-        
-
       };
     
     
@@ -15,10 +13,9 @@ const MobileComponent = () => {
     fontSize: '24px',
     fontWeight: 'bold',
     display: 'flex',
-
     alignItems: 'center',
     justifyContent: 'center',
-    height: '100%',
+    height: '100vh',
     width: '100%',
     margin: '0'
     
