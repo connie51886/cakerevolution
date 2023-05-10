@@ -1,7 +1,8 @@
 
   
   .background {
-    background-image: url("./images/mobilecake.png");
+    
+    background-image: "url(./images/mobilecake.png)";
     height: calc(100vh - 20px);
   
     /* Center and scale the image nicely */
